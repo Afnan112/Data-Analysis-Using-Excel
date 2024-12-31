@@ -13,3 +13,6 @@ This project involves the analysis of retail store data to derive actionable ins
 - Data Visualization
 
 ![image alt](https://github.com/Afnan112/Data-Analysis-Using-Excel/blob/7e0832bcfcba6ee280d24aa730a8eb833a1fd69e/Dashboard.png)
+
+
+![My Video](https://github.com/Afnan112/Data-Analysis-Using-Excel/blob/c8a9d8d1d1547fd93de03262998326b97414d79f/Dashboard.mp4)
